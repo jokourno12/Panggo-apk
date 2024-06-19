@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "panggo_apk",
+  "display": "standalone",
+  "name": "panggo_apk",
+  "short_name": "panggo_apk",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
